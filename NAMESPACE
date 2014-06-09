@@ -1,0 +1,4 @@
+importFrom(BiasedUrn,dFNCHypergeo)
+importFrom(PropCIs,scoreci)
+importFrom(BlakerCI,binom.blaker.limits)
+export(Agrestiind.CI,BPexact.CI,BPmidp.CI,Cornfieldexact.CI,Cornfieldmidp.CI,Gart.CI,Invsinh.CI,MOVER.CI,MUE.CI,Woolf.CI)

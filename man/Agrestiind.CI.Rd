@@ -1,0 +1,42 @@
+\name{Agrestiind.CI}
+\alias{Agrestiind.CI}
+\title{
+Compute Agresti independence confidence interval for the odds ratio
+}
+\description{
+Compute Agresti independence-smoothed logit confidence interval for the odds ratio of two independent binomial proportions.
+}
+\usage{
+Agrestiind.CI(x1, n1, x2, n2, conf = 0.95)
+}
+%- maybe also 'usage' for other objects documented here.
+\arguments{
+  \item{x1}{
+number of events in group 1.
+}
+  \item{n1}{
+number of trials in group 1.
+}
+  \item{x2}{
+number of events in group 2.
+}
+  \item{n2}{
+number of trials in group 2.
+}
+  \item{conf}{
+confidence level.
+}
+}
+\references{
+Agresti, A. (1999). On logit confidence intervals for the odds ratio with small samples. Biometrics, 55(2):597-602.
+}
+\author{
+Libo Sun
+}
+\examples{
+# x1=2, n1=14, x2=1, n2=11
+# 95% confidence interval for the odds ratio 
+
+Agrestiind.CI(2, 14, 1, 11)
+}
+\keyword{Agresti independence}

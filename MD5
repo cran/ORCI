@@ -1,0 +1,14 @@
+edaf4e157eb547bcaaf2cc77ddb8055a *DESCRIPTION
+19b5aafd38d33bba080c1cc55c711bdc *NAMESPACE
+e61875b0ad38840ab10d07cedb292ec7 *R/ORCI.R
+25234d086cf7b7f30f3c6b548f1496c0 *man/Agrestiind.CI.Rd
+d55f6616b852e3857fae2e6cdf2fdf74 *man/BPexact.CI.Rd
+304070b47f0f8f466e31a2b5a5353b8c *man/BPmidp.CI.Rd
+f699217f3284d454fc01f8ce808fce9a *man/Cornfieldexact.CI.Rd
+2c4b8e94b99407d610ea4658556a1801 *man/Cornfieldmidp.CI.Rd
+83ae0765ff07b72adcfd61439016c4f6 *man/Gart.CI.Rd
+8b0049dd5d8f06f2dfdae16903c6993a *man/Invsinh.CI.Rd
+957e91c55de5f740b3fff74b313c9e82 *man/MOVER.CI.Rd
+35655009c0c994e386fbb67d10408487 *man/MUE.CI.Rd
+dfc2217ca71af082f35fa39f0c43eda7 *man/ORCI-package.Rd
+971b89617fe2176b6657317c1c5e204d *man/Woolf.CI.Rd
